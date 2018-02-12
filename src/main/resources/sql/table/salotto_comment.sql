@@ -1,0 +1,14 @@
+INSERT INTO `salotto_comment` VALUES (26, 1, 2, 13, NULL, '评论1', '2018-2-10 19:50:45', 1);
+INSERT INTO `salotto_comment` VALUES (27, 2, 1, 13, 26, '<p>评论2</p>', '2018-2-10 19:50:58', 1);
+INSERT INTO `salotto_comment` VALUES (28, 1, 2, 13, 27, '<p>评论3</p>', '2018-2-10 20:13:41', 1);
+INSERT INTO `salotto_comment` VALUES (29, 2, 1, 13, 28, '<p>评论4</p>', '2018-2-10 20:32:38', 1);
+INSERT INTO `salotto_comment` VALUES (30, 9, 10, 16, NULL, '沙龙评论', '2018-2-11 15:42:40', 0);
+INSERT INTO `salotto_comment` VALUES (31, 9, 2, 13, NULL, '第三个', '2018-2-11 15:52:06', 1);
+INSERT INTO `salotto_comment` VALUES (32, 2, 9, 13, 31, '<p>第四个</p>', '2018-2-12 11:47:01', 1);
+INSERT INTO `salotto_comment` VALUES (33, 2, 2, 13, NULL, '<p><b>发生的</b></p>', '2018-2-11 15:56:13', 1);
+INSERT INTO `salotto_comment` VALUES (34, 2, 2, 13, 33, '<p>发生啥</p>', '2018-2-11 16:05:56', 1);
+INSERT INTO `salotto_comment` VALUES (35, 1, 2, 13, NULL, '<table><colgroup><col width=\"49.91289198606272%\"><col width=\"50.08710801393729%\"></colgroup><thead><tr><th><br></th><th><br></th></tr></thead><tbody><tr><td><br></td><td><br></td></tr><tr><td><br></td><td><br></td></tr></tbody></table>', '2018-2-12 11:52:46', 1);
+INSERT INTO `salotto_comment` VALUES (36, 1, 2, 13, NULL, '<table><colgroup><col width=\"33.27526132404181%\"><col width=\"33.36236933797909%\"><col width=\"33.44947735191638%\"></colgroup><thead><tr><th>sdaf</th><th><br></th><th><br></th></tr></thead><tbody><tr><td><br></td><td><br></td><td><br></td></tr><tr><td>asf</td><td><br></td><td><br></td></tr><tr><td><br></td><td>asf</td><td><br></td></tr><tr><td>asf</td><td><br></td><td><br></td></tr><tr><td><br></td><td>asf</td><td><br></td></tr></tbody></table>', '2018-2-12 11:52:46', 1);
+INSERT INTO `salotto_comment` VALUES (37, 1, 2, 13, NULL, '<ul><li>q</li><li>2</li><li>wqe</li><li>asd</li></ul>', '2018-2-12 11:52:46', 1);
+INSERT INTO `salotto_comment` VALUES (38, 1, 2, 13, NULL, '<p>aws&nbsp;<span style=\"color: rgb(227, 55, 55);\">sdasf&nbsp;</span></p>', '2018-2-12 11:52:46', 1);
+INSERT INTO `salotto_comment` VALUES (39, 1, 2, 13, NULL, '<p style=\"text-align: center;\">safasg</p>', '2018-2-12 11:52:46', 1);

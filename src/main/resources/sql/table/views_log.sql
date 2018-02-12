@@ -1,0 +1,13 @@
+INSERT INTO `views_log` VALUES (1, 15, '2018-1-28');
+INSERT INTO `views_log` VALUES (1, 10, '2018-1-29');
+INSERT INTO `views_log` VALUES (1, 2, '2018-1-30');
+INSERT INTO `views_log` VALUES (2, 2, '2018-1-30');
+INSERT INTO `views_log` VALUES (1, 8, '2018-1-31');
+INSERT INTO `views_log` VALUES (2, 6, '2018-1-31');
+INSERT INTO `views_log` VALUES (1, 10, '2018-2-5');
+INSERT INTO `views_log` VALUES (2, 8, '2018-2-5');
+INSERT INTO `views_log` VALUES (1, 22, '2018-2-10');
+INSERT INTO `views_log` VALUES (2, 9, '2018-2-10');
+INSERT INTO `views_log` VALUES (3, 2, '2018-2-10');
+INSERT INTO `views_log` VALUES (4, 3, '2018-2-10');
+INSERT INTO `views_log` VALUES (9, 2, '2018-2-10');

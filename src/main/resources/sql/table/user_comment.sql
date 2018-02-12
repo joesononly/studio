@@ -1,0 +1,10 @@
+INSERT INTO `user_comment` VALUES (55, 1, 2, NULL, NULL, '评论1', '2018-2-10 12:59:25', 1, 0, 0);
+INSERT INTO `user_comment` VALUES (56, 2, 1, 55, NULL, '<p>评论2</p>', '2018-2-10 13:02:52', 1, 0, 0);
+INSERT INTO `user_comment` VALUES (57, 1, 2, 56, NULL, '<p>评论3</p>', '2018-2-10 13:04:29', 1, 0, 0);
+INSERT INTO `user_comment` VALUES (59, 2, 1, 57, NULL, '<p>评论4</p>', '2018-2-10 13:28:56', 1, 0, 0);
+INSERT INTO `user_comment` VALUES (60, 2, 1, NULL, NULL, '评论1 02-11', '2018-2-11 10:55:39', 1, 0, 0);
+INSERT INTO `user_comment` VALUES (61, 1, 2, 60, NULL, '<p>评论2 02-11</p>', '2018-2-11 14:41:13', 1, 0, 0);
+INSERT INTO `user_comment` VALUES (63, 2, 2, 61, NULL, '<p>评论3 02-11</p>', '2018-2-11 14:41:13', 1, 0, 0);
+INSERT INTO `user_comment` VALUES (64, 9, 9, NULL, NULL, '留言', '2018-2-11 11:15:42', 1, 0, 0);
+INSERT INTO `user_comment` VALUES (65, 2, 9, NULL, NULL, '<p>萨gas的</p>', '2018-2-12 11:46:55', 1, 0, 0);
+INSERT INTO `user_comment` VALUES (66, 2, 2, 65, NULL, '<p>评论2</p>', '2018-2-11 16:02:18', 1, 0, 0);
